@@ -1,0 +1,6 @@
+.idea/
+www/*
+.env
+storage/
+!www/.gitkeep
+.history/
